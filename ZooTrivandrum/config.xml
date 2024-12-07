@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewerGallery imagePath="images/"
+	thumbnailColumns="3"
+	title="Der Zoo in Trivandrum"
+	navDirection="LTR"
+	enableRightClickOpen="true"
+	maxImageWidth="800"
+	thumbPath="thumbs/"
+	navPosition="left"
+	thumbnailRows="3"
+	bgColor="0x488025"
+	stagePadding="20"
+	maxImageHeight="800"
+	frameWidth="3"
+	textColor="rgba(255,255,255,1)"
+	frameColor="0x060606"
+	resizeOnImport="false"
+	thumbFrameColor="rgba(6,6,6,.8)"
+	backgroundColor="rgba(72,128,37,1)"
+	showOpenButton="false"
+	galleryTitle="Der Zoo von Trivandrum"
+
+>
+  <image imageURL="images/001.jpg"
+	thumbURL="thumbs/001.jpg"
+	linkURL="images/001.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\001.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Im Park vor dem Zoologischen Garten von Trivandrum ...
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/002.jpg"
+	thumbURL="thumbs/002.jpg"
+	linkURL="images/002.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\002.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[steht das Napier-Museum, ein prunkvoller Holzbau von 1855, der verschiedene archäologische und historische Ausstellungsstücke rund um die Geshichte Indiens beherbergt.
+
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/003.jpg"
+	thumbURL="thumbs/003.jpg"
+	linkURL="images/003.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\003.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Gegenüber liegt der sehr dschungelhafte Zoo von Trivandrum.
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/004.jpg"
+	thumbURL="thumbs/004.jpg"
+	linkURL="images/004.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\004.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Wenn auch die Großvögel teilweise recht arm aus der Wäsche und durch die Gitter schauen, ...
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/005.jpg"
+	thumbURL="thumbs/005.jpg"
+	linkURL="images/005.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\005.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[... ist die Unterbringung für indische Verhältnisse im Großen und Ganzen wahrscheinlich doch recht ordentlich.
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/006.jpg"
+	thumbURL="thumbs/006.jpg"
+	linkURL="images/006.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\006.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Manche Gehege wirken akzeptabel groß bemessen.
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/007.jpg"
+	thumbURL="thumbs/007.jpg"
+	linkURL="images/007.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\007.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Erst recht, wenn man es mit dem Heim indischer Slumbewohner vergleichen würde ...
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/008.jpg"
+	thumbURL="thumbs/008.jpg"
+	linkURL="images/008.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\008.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Sogar echte Gangesgaviale gibt es hier, ...
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/009.jpg"
+	thumbURL="thumbs/009.jpg"
+	linkURL="images/009.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\009.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[welche aufgrund ihrer kleinen Beine am Land recht unbeweglich und eher im Wasser daheim sind.
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/010.jpg"
+	thumbURL="thumbs/010.jpg"
+	linkURL="images/010.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\010.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Die Kulisse ist ziemlich grün, ...
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/011.jpg"
+	thumbURL="thumbs/011.jpg"
+	linkURL="images/011.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\011.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[... mit vielen beschrifteten Bäumen für die botanisch Interessierten.
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/012.jpg"
+	thumbURL="thumbs/012.jpg"
+	linkURL="images/012.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\012.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Nicht Ganges-, sondern Nilpferde im Trigespräch.
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/013.jpg"
+	thumbURL="thumbs/013.jpg"
+	linkURL="images/013.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\013.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Und Antilopen (Antilope cervicapra) im Zweikampf.
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/014.jpg"
+	thumbURL="thumbs/014.jpg"
+	linkURL="images/014.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\014.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Sogar diverse Großkatzen gibt es.
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/015.jpg"
+	thumbURL="thumbs/015.jpg"
+	linkURL="images/015.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\015.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[U.a. den ehemaligen Schrecken der indischen Wälder, nun gut eingesperrt.
+
+<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/016.jpg"
+	thumbURL="thumbs/016.jpg"
+	linkURL="images/016.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\zootrivandrum\images\016.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Und zum Abschluss noch  weitere indische Ureinwohner: Sumpfkrokodile.
+
+<a href="../">heim</a>]]></caption>
+  </image>
+</simpleviewerGallery>
