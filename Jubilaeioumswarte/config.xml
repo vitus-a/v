@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewerGallery maxImageWidth="900"
+	maxImageHeight="900"
+	textColor="0xFFFFFF"
+	frameColor="0xFCD8AB"
+	frameWidth="8"
+	stagePadding="40"
+	thumbnailColumns="2"
+	thumbnailRows="4"
+	navPosition="left"
+	title=""
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="images/"
+	thumbPath="thumb/"
+	resizeOnImport="false"
+	galleryTitle="Jubilaeioumswarte"
+	thumbFrameColor="rgba(252,216,171,.5)"
+	showOpenButton="false"
+
+>
+  <image imageURL="images/DSC_4838.jpg"
+	thumbURL="thumbs/DSC_4838.jpg"
+	linkURL="images/DSC_4838.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\jubilaeumswarte\images\DSC_4838.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Wienerberg, Schönbrunn, Otto-Wagner-Kapelle<br><a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/DSC_4840.jpg"
+	thumbURL="thumbs/DSC_4840.jpg"
+	linkURL="images/DSC_4840.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\jubilaeumswarte\images\DSC_4840.jpg">
+    <title><![CDATA[Wienerberg]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4842.jpg"
+	thumbURL="thumbs/DSC_4842.jpg"
+	linkURL="images/DSC_4842.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\jubilaeumswarte\images\DSC_4842.jpg">
+    <title><![CDATA[Schönbrunn]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4844.jpg"
+	thumbURL="thumbs/DSC_4844.jpg"
+	linkURL="images/DSC_4844.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\jubilaeumswarte\images\DSC_4844.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Praterstadion, KWK-Kraftwerk Donaustadt, Rathaus, Stephansdom]]></caption>
+  </image>
+  <image imageURL="images/DSC_4845.jpg"
+	thumbURL="thumbs/DSC_4845.jpg"
+	linkURL="images/DSC_4845.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\jubilaeumswarte\images\DSC_4845.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Millenium Tower, Spittelau, Donauturm]]></caption>
+  </image>
+  <image imageURL="images/DSC_4846.jpg"
+	thumbURL="thumbs/DSC_4846.jpg"
+	linkURL="images/DSC_4846.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\jubilaeumswarte\images\DSC_4846.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Mistplatz Hernals, St. Severin, Althangründe, Augarten]]></caption>
+  </image>
+  <image imageURL="images/DSC_4848.jpg"
+	thumbURL="thumbs/DSC_4848.jpg"
+	linkURL="images/DSC_4848.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\jubilaeumswarte\images\DSC_4848.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[AKH, Wurschtlprater, Ringturm]]></caption>
+  </image>
+  <image imageURL="images/DSC_4852.jpg"
+	thumbURL="thumbs/DSC_4852.jpg"
+	linkURL="images/DSC_4852.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\jubilaeumswarte\images\DSC_4852.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Cobenzl, Kahlenberg<br><a href="../">heim</a>]]></caption>
+  </image>
+</simpleviewerGallery>
