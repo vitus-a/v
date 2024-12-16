@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewerGallery maxImageWidth="800"
+	maxImageHeight="800"
+	textColor="0xFFFFFF"
+	frameColor="0xFFFFFF"
+	frameWidth="20"
+	stagePadding="40"
+	thumbnailColumns="2"
+	thumbnailRows="5"
+	navPosition="left"
+	title=""
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="images/"
+	thumbPath="thumb/"
+	resizeOnImport="false"
+	galleryTitle="Iris indologica"
+	showOpenButton="false"
+
+>
+  <image imageURL="images/DSC_4294.jpg"
+	thumbURL="thumbs/DSC_4294.jpg"
+	linkURL="images/DSC_4294.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\iris\images\DSC_4294.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/DSC_4295.jpg"
+	thumbURL="thumbs/DSC_4295.jpg"
+	linkURL="images/DSC_4295.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\iris\images\DSC_4295.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4296.jpg"
+	thumbURL="thumbs/DSC_4296.jpg"
+	linkURL="images/DSC_4296.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\iris\images\DSC_4296.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4298.jpg"
+	thumbURL="thumbs/DSC_4298.jpg"
+	linkURL="images/DSC_4298.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\iris\images\DSC_4298.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4299.jpg"
+	thumbURL="thumbs/DSC_4299.jpg"
+	linkURL="images/DSC_4299.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\iris\images\DSC_4299.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4301.jpg"
+	thumbURL="thumbs/DSC_4301.jpg"
+	linkURL="images/DSC_4301.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\iris\images\DSC_4301.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4303.jpg"
+	thumbURL="thumbs/DSC_4303.jpg"
+	linkURL="images/DSC_4303.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\iris\images\DSC_4303.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4304.jpg"
+	thumbURL="thumbs/DSC_4304.jpg"
+	linkURL="images/DSC_4304.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\iris\images\DSC_4304.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewerGallery>
