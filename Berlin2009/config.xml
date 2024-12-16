@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewerGallery maxImageWidth="800"
+	maxImageHeight="800"
+	textColor="0xFFFFFF"
+	frameColor="0xFFFFFF"
+	frameWidth="10"
+	stagePadding="40"
+	thumbnailColumns="3"
+	thumbnailRows="4"
+	navPosition="left"
+	title=""
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="images/"
+	thumbPath="thumb/"
+	resizeOnImport="false"
+	galleryTitle="Berlin August 2009"
+	backgroundColor="rgba(24,24,24,1)"
+	showThumbsButton="true"
+	showOpenButton="false"
+	useFullscreenExpand="false"
+	useThumbDots="false"
+
+>
+  <image imageURL="images/DSC_5253.jpg"
+	thumbURL="thumbs/DSC_5253.jpg"
+	linkURL="images/DSC_5253.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5253.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/DSC_5262.jpg"
+	thumbURL="thumbs/DSC_5262.jpg"
+	linkURL="images/DSC_5262.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5262.jpg">
+    <title><![CDATA[]]></title>
+    <caption></caption>
+  </image>
+  <image imageURL="images/DSC_5271.jpg"
+	thumbURL="thumbs/DSC_5271.jpg"
+	linkURL="images/DSC_5271.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5271.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5272.jpg"
+	thumbURL="thumbs/DSC_5272.jpg"
+	linkURL="images/DSC_5272.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5272.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5273.jpg"
+	thumbURL="thumbs/DSC_5273.jpg"
+	linkURL="images/DSC_5273.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5273.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5279.jpg"
+	thumbURL="thumbs/DSC_5279.jpg"
+	linkURL="images/DSC_5279.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5279.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5282.jpg"
+	thumbURL="thumbs/DSC_5282.jpg"
+	linkURL="images/DSC_5282.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5282.jpg">
+    <title><![CDATA[Tempelhof]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5289.jpg"
+	thumbURL="thumbs/DSC_5289.jpg"
+	linkURL="images/DSC_5289.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5289.jpg">
+    <title><![CDATA[Tempelhof]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5295.jpg"
+	thumbURL="thumbs/DSC_5295.jpg"
+	linkURL="images/DSC_5295.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5295.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5500.jpg"
+	thumbURL="thumbs/DSC_5500.jpg"
+	linkURL="images/DSC_5500.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5500.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5555.jpg"
+	thumbURL="thumbs/DSC_5555.jpg"
+	linkURL="images/DSC_5555.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5555.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5579.jpg"
+	thumbURL="thumbs/DSC_5579.jpg"
+	linkURL="images/DSC_5579.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5579.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5580.jpg"
+	thumbURL="thumbs/DSC_5580.jpg"
+	linkURL="images/DSC_5580.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5580.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5583.jpg"
+	thumbURL="thumbs/DSC_5583.jpg"
+	linkURL="images/DSC_5583.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5583.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5593.jpg"
+	thumbURL="thumbs/DSC_5593.jpg"
+	linkURL="images/DSC_5593.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5593.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5594.jpg"
+	thumbURL="thumbs/DSC_5594.jpg"
+	linkURL="images/DSC_5594.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5594.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5628.jpg"
+	thumbURL="thumbs/DSC_5628.jpg"
+	linkURL="images/DSC_5628.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5628.jpg">
+    <title><![CDATA[Kastanienallee 86]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5632.jpg"
+	thumbURL="thumbs/DSC_5632.jpg"
+	linkURL="images/DSC_5632.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5632.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5636.jpg"
+	thumbURL="thumbs/DSC_5636.jpg"
+	linkURL="images/DSC_5636.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5636.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5638.jpg"
+	thumbURL="thumbs/DSC_5638.jpg"
+	linkURL="images/DSC_5638.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5638.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5643.jpg"
+	thumbURL="thumbs/DSC_5643.jpg"
+	linkURL="images/DSC_5643.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5643.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5652.jpg"
+	thumbURL="thumbs/DSC_5652.jpg"
+	linkURL="images/DSC_5652.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5652.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5669.jpg"
+	thumbURL="thumbs/DSC_5669.jpg"
+	linkURL="images/DSC_5669.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlin\images\DSC_5669.jpg">
+    <title></title>
+    <caption><![CDATA[<a href="../">heim</a>]]></caption>
+  </image>
+</simpleviewerGallery>
