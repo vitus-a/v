@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewerGallery maxImageWidth="800"
+	maxImageHeight="800"
+	textColor="0xFFFFFF"
+	frameColor="0xFFFFFF"
+	frameWidth="7"
+	stagePadding="40"
+	thumbnailColumns="2"
+	thumbnailRows="5"
+	navPosition="left"
+	title=""
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="images/"
+	thumbPath="thumb/"
+	resizeOnImport="false"
+	galleryTitle="Die Lobau"
+	showOpenButton="false"
+
+>
+  <image imageURL="images/DSC_3687.jpg"
+	thumbURL="thumbs/DSC_3687.jpg"
+	linkURL="images/DSC_3687.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3687.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/DSC_3688.jpg"
+	thumbURL="thumbs/DSC_3688.jpg"
+	linkURL="images/DSC_3688.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3688.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3689.jpg"
+	thumbURL="thumbs/DSC_3689.jpg"
+	linkURL="images/DSC_3689.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3689.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3691.jpg"
+	thumbURL="thumbs/DSC_3691.jpg"
+	linkURL="images/DSC_3691.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3691.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3699.jpg"
+	thumbURL="thumbs/DSC_3699.jpg"
+	linkURL="images/DSC_3699.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3699.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3709.jpg"
+	thumbURL="thumbs/DSC_3709.jpg"
+	linkURL="images/DSC_3709.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3709.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3710.jpg"
+	thumbURL="thumbs/DSC_3710.jpg"
+	linkURL="images/DSC_3710.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3710.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3713.jpg"
+	thumbURL="thumbs/DSC_3713.jpg"
+	linkURL="images/DSC_3713.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3713.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3714.jpg"
+	thumbURL="thumbs/DSC_3714.jpg"
+	linkURL="images/DSC_3714.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3714.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3719.jpg"
+	thumbURL="thumbs/DSC_3719.jpg"
+	linkURL="images/DSC_3719.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3719.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3723.jpg"
+	thumbURL="thumbs/DSC_3723.jpg"
+	linkURL="images/DSC_3723.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3723.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3731.jpg"
+	thumbURL="thumbs/DSC_3731.jpg"
+	linkURL="images/DSC_3731.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3731.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3736.jpg"
+	thumbURL="thumbs/DSC_3736.jpg"
+	linkURL="images/DSC_3736.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3736.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3743.jpg"
+	thumbURL="thumbs/DSC_3743.jpg"
+	linkURL="images/DSC_3743.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3743.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3746.jpg"
+	thumbURL="thumbs/DSC_3746.jpg"
+	linkURL="images/DSC_3746.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3746.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3749.jpg"
+	thumbURL="thumbs/DSC_3749.jpg"
+	linkURL="images/DSC_3749.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3749.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3751.jpg"
+	thumbURL="thumbs/DSC_3751.jpg"
+	linkURL="images/DSC_3751.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3751.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3753.jpg"
+	thumbURL="thumbs/DSC_3753.jpg"
+	linkURL="images/DSC_3753.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3753.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3770.jpg"
+	thumbURL="thumbs/DSC_3770.jpg"
+	linkURL="images/DSC_3770.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\lobau\images\DSC_3770.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[<a href="../">heim</a>]]></caption>
+  </image>
+</simpleviewerGallery>
