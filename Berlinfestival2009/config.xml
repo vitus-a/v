@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewerGallery maxImageWidth="800"
+	maxImageHeight="800"
+	textColor="0xFFFFFF"
+	frameColor="0xFFFFFF"
+	frameWidth="10"
+	stagePadding="40"
+	thumbnailColumns="3"
+	thumbnailRows="4"
+	navPosition="left"
+	title=""
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="images/"
+	thumbPath="thumb/"
+	resizeOnImport="false"
+	showOpenButton="false"
+	backgroundColor="rgba(24,24,24,1)"
+	galleryTitle="Berlin Festival 2009, Tempelhof"
+
+>
+  <image imageURL="images/DSC_5329.jpg"
+	thumbURL="thumbs/DSC_5329.jpg"
+	linkURL="images/DSC_5329.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlinfestival\images\DSC_5329.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/DSC_5332.jpg"
+	thumbURL="thumbs/DSC_5332.jpg"
+	linkURL="images/DSC_5332.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlinfestival\images\DSC_5332.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5341.jpg"
+	thumbURL="thumbs/DSC_5341.jpg"
+	linkURL="images/DSC_5341.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlinfestival\images\DSC_5341.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5368.jpg"
+	thumbURL="thumbs/DSC_5368.jpg"
+	linkURL="images/DSC_5368.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlinfestival\images\DSC_5368.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5379.jpg"
+	thumbURL="thumbs/DSC_5379.jpg"
+	linkURL="images/DSC_5379.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlinfestival\images\DSC_5379.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5387.jpg"
+	thumbURL="thumbs/DSC_5387.jpg"
+	linkURL="images/DSC_5387.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlinfestival\images\DSC_5387.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5401.jpg"
+	thumbURL="thumbs/DSC_5401.jpg"
+	linkURL="images/DSC_5401.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlinfestival\images\DSC_5401.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5449.jpg"
+	thumbURL="thumbs/DSC_5449.jpg"
+	linkURL="images/DSC_5449.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlinfestival\images\DSC_5449.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5523.jpg"
+	thumbURL="thumbs/DSC_5523.jpg"
+	linkURL="images/DSC_5523.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlinfestival\images\DSC_5523.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5548.jpg"
+	thumbURL="thumbs/DSC_5548.jpg"
+	linkURL="images/DSC_5548.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlinfestival\images\DSC_5548.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_5549.jpg"
+	thumbURL="thumbs/DSC_5549.jpg"
+	linkURL="images/DSC_5549.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\berlinfestival\images\DSC_5549.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[<a href="../">heim</a>]]></caption>
+  </image>
+</simpleviewerGallery>
