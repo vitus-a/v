@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewerGallery maxImageWidth="800"
+	maxImageHeight="800"
+	textColor="0xFFFFFF"
+	frameColor="0xFFFFFF"
+	frameWidth="11"
+	stagePadding="32"
+	thumbnailColumns="2"
+	thumbnailRows="5"
+	navPosition="left"
+	title=""
+	enableRightClickOpen="true"
+	backgroundImagePath=""
+	imagePath="images/"
+	thumbPath="thumb/"
+	resizeOnImport="false"
+	galleryTitle="Ostern in Eschelberg"
+	showOpenButton="false"
+
+>
+  <image imageURL="images/DSC_3964.jpg"
+	thumbURL="thumbs/DSC_3964.jpg"
+	linkURL="images/DSC_3964.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_3964.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[<a href="../">heim</a>]]></caption>
+  </image>
+  <image imageURL="images/DSC_3968.jpg"
+	thumbURL="thumbs/DSC_3968.jpg"
+	linkURL="images/DSC_3968.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_3968.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3988.jpg"
+	thumbURL="thumbs/DSC_3988.jpg"
+	linkURL="images/DSC_3988.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_3988.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3996.jpg"
+	thumbURL="thumbs/DSC_3996.jpg"
+	linkURL="images/DSC_3996.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_3996.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3998.jpg"
+	thumbURL="thumbs/DSC_3998.jpg"
+	linkURL="images/DSC_3998.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_3998.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3999.jpg"
+	thumbURL="thumbs/DSC_3999.jpg"
+	linkURL="images/DSC_3999.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_3999.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4005.jpg"
+	thumbURL="thumbs/DSC_4005.jpg"
+	linkURL="images/DSC_4005.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_4005.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4019.jpg"
+	thumbURL="thumbs/DSC_4019.jpg"
+	linkURL="images/DSC_4019.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_4019.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4022.jpg"
+	thumbURL="thumbs/DSC_4022.jpg"
+	linkURL="images/DSC_4022.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_4022.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4032.jpg"
+	thumbURL="thumbs/DSC_4032.jpg"
+	linkURL="images/DSC_4032.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_4032.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4033.jpg"
+	thumbURL="thumbs/DSC_4033.jpg"
+	linkURL="images/DSC_4033.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_4033.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4036.jpg"
+	thumbURL="thumbs/DSC_4036.jpg"
+	linkURL="images/DSC_4036.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_4036.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4037.jpg"
+	thumbURL="thumbs/DSC_4037.jpg"
+	linkURL="images/DSC_4037.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_4037.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4038.jpg"
+	thumbURL="thumbs/DSC_4038.jpg"
+	linkURL="images/DSC_4038.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_4038.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4040.jpg"
+	thumbURL="thumbs/DSC_4040.jpg"
+	linkURL="images/DSC_4040.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_4040.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4041.jpg"
+	thumbURL="thumbs/DSC_4041.jpg"
+	linkURL="images/DSC_4041.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_4041.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4042.jpg"
+	thumbURL="thumbs/DSC_4042.jpg"
+	linkURL="images/DSC_4042.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_4042.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4043.jpg"
+	thumbURL="thumbs/DSC_4043.jpg"
+	linkURL="images/DSC_4043.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_4043.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4045.jpg"
+	thumbURL="thumbs/DSC_4045.jpg"
+	linkURL="images/DSC_4045.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_4045.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4049.jpg"
+	thumbURL="thumbs/DSC_4049.jpg"
+	linkURL="images/DSC_4049.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\software-it\backups\v.bidala.org\osterebg\images\DSC_4049.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[<a href="../">heim</a>]]></caption>
+  </image>
+</simpleviewerGallery>
